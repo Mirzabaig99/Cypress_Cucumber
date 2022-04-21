@@ -15,3 +15,4 @@ jobs:
           install-command: npm install
           build: npm run build
           start: npm start
+          test: nom test
